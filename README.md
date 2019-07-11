@@ -6,10 +6,10 @@ Some weeks ago I showed these maps to a friend of me which work in the GIS area.
 
 i don't like to repeat all about licences of the date. For this issue I point to the documentation of Timo Grossenbacher for the inital R version which you can find, https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/.
 
-QGIS version used and extensions
+### QGIS version used and extensions
 - QGIS LTS Version 3.4
 - Plugin "Mask"
-How to:
+### How to:
  1. Start a new project in QGIS
  2. Drag and drop the Shapefiles (*.shp) into the QGIS
  3. Drag and drop the the relief file, 02-relief-ascii.asc
@@ -32,7 +32,7 @@ That's it and you should able to see a result!
 
 In the future I will create a Word document with screen shots for better understanding.
 
- ## List of used layers:
+ ### List of used layers:
 - Mask layer created with the Mark plug in. 
 - Landeskarten (farbig), helps to see Border on a real map. For this layer you must have an account on Swiss Topo (free for a limited usage)
 - K4polg20* layers are maps of the Swiss communities in different years.
