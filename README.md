@@ -42,7 +42,7 @@ In the future I will create a Word document with screen shots for better underst
 - g2s15 layer, the map of the Swiss lakes
 - mean layer, the map of the Swiss communities with the Average, pure equivalised income, in Swiss francs
 - gini and mean layer the map of the Swiss communities with the Gini coefficient of pure equivalised income and the Average, pure equivalised income, in Swiss francs
-- gini layer, the map of the swiss communities wiht the Gini coefficient of pure equivalised income
+- gini layer, the map of the swiss communities with the Gini coefficient of pure equivalised income
 - gini rbg layer, a variant of the gini layer with other colors.
 - 02-relief-ascii layer, the data for the relief of Switzerland
 - data layer, the necessary data of all Swiss communities in 2015
